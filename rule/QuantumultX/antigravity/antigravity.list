@@ -1,0 +1,9 @@
+# Antigravity
+host, antigravity.google, Gemini
+host, antigravity-unleash.goog, Gemini
+host-suffix, cloudcode-pa.googleapis.com, Gemini
+host, aida.googleapis.com, Gemini
+host, aisandbox-pa.googleapis.com, Gemini
+host, robinfrontend-pa.googleapis.com, Gemini
+host-wildcard, *-pa.googleapis.com, Gemini
+host-wildcard, *-pa.clients6.google.com, Gemini
